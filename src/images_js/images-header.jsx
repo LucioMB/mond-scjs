@@ -1,0 +1,1 @@
+export const MondoraLogo1 = require('../public/logo-1.png');

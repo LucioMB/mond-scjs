@@ -1,0 +1,1 @@
+export const Brothers = require('../public/brothers-1.png');

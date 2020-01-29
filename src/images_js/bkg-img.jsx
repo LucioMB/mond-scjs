@@ -1,0 +1,1 @@
+export const BkgImg = require('../public/sfondo-w.png');
